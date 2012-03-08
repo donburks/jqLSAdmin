@@ -1,0 +1,1 @@
+Drag the bookmarklet up to your favorites bar in your browser of choice. When you are on a page where you would like to interact with the localStorage on that page, just click it. You will get a lightbox overlay on the page with the key/value pairs of your localStorage displayed. At the bottom of the list will be text boxes where  you can add new values to localStorage.
